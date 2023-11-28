@@ -7,3 +7,4 @@ console.log("jagruti")
 function add(){
     console.log("add function")
 }
+console.log("1+2=3")
